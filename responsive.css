@@ -1,0 +1,259 @@
+@media only screen and (max-width: 600px) {
+    .section-one {
+        overflow: hidden;
+    } 
+
+    .left h1 {
+        font-size: 30px!important;
+    }
+
+    .sec-one-img img {
+        width: 470px !important;
+    }
+
+    /* section-tow */
+    .section-tow {
+        overflow: hidden;
+        height: 400px !important;
+    }
+
+    /* section-three */
+    .section-three {
+        overflow: hidden;
+        margin-top: 80px !important;
+    }
+
+    .text-three p {
+        text-align: center;
+        margin-top: 20px !important;
+    }
+
+    .card-three-main-div-one {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card-three-main-div-tow {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    /* section-four */
+    .section-four {
+        overflow: hidden;
+    }
+
+    .section-four-img img {
+        width: 450px !important;
+    }
+
+    .sec-four-main {
+        gap: 20px !important;
+        height: 500px !important;
+
+    }
+
+    .card-four-main-div-one {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .card-four-main-div-tow {
+        display: flex;
+        flex-direction: column;
+        gap: 20px !important;
+
+    }
+
+    /* section-five */
+    .section-five {
+        overflow: hidden;
+    }
+    .text-five p {
+
+        text-align: center;
+    }
+    .box-five {
+        width: 500px!important;
+    }
+
+
+    /* section-six */
+    .section-six {
+        overflow: hidden;
+    }
+
+
+    .sec-six {
+        gap: 20px!important;
+    }
+
+    .sec-six-box {
+        height: 300px!important;
+    }
+
+    .img-div-one {
+        width: 400px!important;
+    }
+
+    .img-div-tow {
+        width: 400px!important;
+    }
+
+    .img-div-three {
+        width: 400px!important;
+    }
+
+    .img-div-four {
+        width: 400px!important;
+    }
+    .box-six {
+        width: 300px!important;
+        padding: 10px!important;
+    }
+
+
+
+    /* section-seven */
+
+    .section-seven {
+        overflow: hidden;
+    }
+
+    .text-seven p {
+        text-align: center;
+    }
+
+    .sec-seven {
+        gap: 20px!important;
+    }
+
+    /* section-eight */
+
+    .section-eight {
+        overflow: hidden;
+    }
+
+
+    /* section-nine */
+
+    .section-nine {
+        overflow: hidden;
+    }
+    .text-nine p {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .tag {
+        width: 400px!important;
+    }
+
+    .img-nine {
+        width: 600px!important;
+    }
+
+
+    /* section-ten */
+
+    .section-ten {
+        overflow: hidden;
+    }
+    .text-ten p {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .img-ten-div img {
+        width: 300px!important;
+    }
+
+    /* section-eleven */
+    .section-eleven {
+        overflow: hidden;
+    }
+
+    .text-eleven p {
+        text-align: center;
+
+    }
+
+    .sec-eleven {
+        gap: 25px!important;
+        margin-top: 20px;
+    }
+
+    /* section-twelve */
+
+    .section-twelve {
+        overflow: hidden;
+    }
+
+    .text-twelve p {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .twelve-main-div {
+        display: flex;
+        flex-direction: column;
+        width: 400px!important;
+        height: 300px!important;
+        justify-content: space-evenly;
+    }
+
+    .twelve-left {
+        font-size: 15px!important;
+        margin-left: 20px!important;
+    }
+
+    .twelve-right {
+        width: 400px!important;
+    }
+
+    /* footer */
+
+    .footer {
+        overflow: hidden;
+    }
+  
+    .text-footer p {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+
+    .input-main-div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 20px!important
+    }
+
+
+    .footer-one {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .input-one {
+        width: 340px!important;
+    }
+
+    .input-tow {
+        width: 340px!important;
+    }
+
+    .button-footer button {
+        margin-bottom: 60px!important;
+    }
+
+    .details {
+        margin-top: 40px!important;
+    }
+}
